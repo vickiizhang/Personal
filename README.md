@@ -1,2 +1,3 @@
 # Personal
-chaochao's repository
+You should follow the rules below while you commit documents.
+- - -
